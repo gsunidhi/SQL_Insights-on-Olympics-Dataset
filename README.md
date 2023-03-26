@@ -1,10 +1,9 @@
-# Analysis of Olympics Dataset using SQL
+# Exploratory Analysis of 120 years of Olympics Dataset using SQL
 
 This repository holds all the resources related to the Data Analysis on **Olympics Athletes Events Dataset of 120 years**
 
 This assignment was completed for **SQL for Data Science Capstone Project on Coursera**
-
-*Course Link - https://www.coursera.org/account/accomplishments/verify/5U4ASCUAE6CW*
+*https://www.coursera.org/account/accomplishments/verify/5U4ASCUAE6CW*
 
 This repository contains following resources:
 
