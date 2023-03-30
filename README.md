@@ -17,5 +17,24 @@ which contains link for **Databricks website** where **SQL queries** have been e
 
 3. Two csv files (athlete_events and noc_regions) are used as dataset for this project.
 
+Summary of the project:
+
+![Introduction](Intro_img.png "Introduction")
+
+![Problem Statements](Problem_statements.png "Problem Statements")
+
+![Dominant Nations](Dominant_Nations.png "Dominant Nations")
+
+![Dominant Nations Analysis](Dominant_Nations_Analysis.png "Dominant Nations Analysis")
+
+![Gender Participation](Gender_participation.png "Gender Participation")
+
+![Female Participation](Females_performance.png "Female Participation")
+
+![Male Participation](Males_performance.png "Male Participation")
+
+![BMI](BMI_Analysis.png "BMI")
+
+
 
 
